@@ -2,4 +2,21 @@ body {
 	margin: 0 auto;
 	max-width: 50em;
 	font-family: Cursive, "Brush Script MT";
+	color: #ed05a4;
+}
+
+.ab {
+	color: #a67965
+}
+
+.gr {
+	color: #317848
+}
+
+.ch {
+	color: #ad3024
+}
+
+.zd {
+	color: #5b4d8a
 }
